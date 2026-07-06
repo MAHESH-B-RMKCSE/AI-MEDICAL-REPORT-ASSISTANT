@@ -1,0 +1,49 @@
+{
+    "patient_information": {
+        "name": "John Michael Doe",
+        "age": "45 Years",
+        "gender": "Male"
+    },
+    "report_information": {
+        "report_type": "Comprehensive Medical Laboratory Report (Sample)",
+        "test_date": "03 July 2026",
+        "laboratory": "Not Available"
+    },
+    "abnormal_parameters": [
+        "Hemoglobin: 11.8 g/dL (Low)",
+        "RBC Count: 4.2 million/uL (Low)",
+        "WBC Count: 13,200/uL (High)",
+        "CRP: 12 mg/L (High)",
+        "ESR: 34 mm/hr (High)",
+        "Fasting Glucose: 142 mg/dL (High)",
+        "PP Blood Sugar: 228 mg/dL (High)",
+        "HbA1c: 7.8% (High)",
+        "Urea: 48 mg/dL (High)",
+        "Creatinine: 1.4 mg/dL (Slightly High)",
+        "AST: 56 U/L (High)",
+        "ALT: 74 U/L (High)",
+        "Total Cholesterol: 245 mg/dL (High)",
+        "HDL: 38 mg/dL (Low)",
+        "LDL: 162 mg/dL (High)",
+        "Triglycerides: 218 mg/dL (High)",
+        "Potassium: 5.4 mmol/L (High)",
+        "Vitamin D: 18 ng/mL (Low)",
+        "Ferritin: 22 ng/mL (Low)"
+    ],
+    "possible_conditions": [
+        "Type 2 Diabetes Mellitus",
+        "Hyperlipidemia",
+        "Mild Iron Deficiency Anemia",
+        "Elevated Inflammatory Markers",
+        "Early Chronic Kidney Disease"
+    ],
+    "medications": [],
+    "recommendations": [
+        "Consult physician.",
+        "Follow diabetic diet.",
+        "Exercise 30 minutes daily.",
+        "Repeat blood sugar, liver and kidney tests in 3 months.",
+        "Consider Vitamin D and Iron supplementation as advised."
+    ],
+    "overall_health_risk": "Moderate"
+}

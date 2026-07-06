@@ -1,0 +1,29 @@
+{
+    "patient_information": {
+        "name": "John Doe",
+        "age": "45",
+        "gender": "Male"
+    },
+    "report_information": {
+        "report_type": "Detailed Sample Medical Report",
+        "test_date": "2026-07-03",
+        "laboratory": "Available"
+    },
+    "abnormal_parameters": [
+        {
+            "parameter_name": "CRP",
+            "value": "12 mg/L (mildly elevated)",
+            "unit": "mg/L"
+        }
+    ],
+    "possible_conditions": [
+        "Upper respiratory tract infection"
+    ],
+    "medications": [
+        "Paracetamol 500 mg every 6 hours PRN"
+    ],
+    "recommendations": [
+        "Hydration, rest, follow-up in 5 days"
+    ],
+    "overall_health_risk": "Low"
+}

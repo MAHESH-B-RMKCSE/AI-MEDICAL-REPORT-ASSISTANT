@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Uploaded medical reports (don't commit)
+backend/uploads/
+
+# Extracted text
+backend/extracted_text/
+
+# Vector database
+backend/vector_db/

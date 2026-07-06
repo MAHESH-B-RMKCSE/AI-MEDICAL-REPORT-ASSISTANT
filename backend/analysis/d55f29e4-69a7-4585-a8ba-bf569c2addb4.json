@@ -1,0 +1,17 @@
+{
+    "patient_information": {
+        "name": "Not Available",
+        "age": "Not Available",
+        "gender": "Not Available"
+    },
+    "report_information": {
+        "report_type": "Not Available",
+        "test_date": "Not Available",
+        "laboratory": "Not Available"
+    },
+    "abnormal_parameters": [],
+    "possible_conditions": [],
+    "medications": [],
+    "recommendations": [],
+    "overall_health_risk": "Not Available"
+}

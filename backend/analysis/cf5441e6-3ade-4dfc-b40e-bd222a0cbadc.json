@@ -1,0 +1,144 @@
+{
+    "patient_information": {
+        "name": "John Michael Doe",
+        "age": "45 Years",
+        "gender": "Male"
+    },
+    "report_information": {
+        "report_type": "Comprehensive Medical Laboratory Report (Sample)",
+        "test_date": "03 July 2026",
+        "laboratory": "Not Available"
+    },
+    "abnormal_parameters": [
+        {
+            "parameter": "Hemoglobin",
+            "value": "Low",
+            "unit": "g/dL"
+        },
+        {
+            "parameter": "RBC Count",
+            "value": "Low",
+            "unit": "million/uL"
+        },
+        {
+            "parameter": "WBC Count",
+            "value": "High",
+            "unit": "uL"
+        },
+        {
+            "parameter": "CRP",
+            "value": "High",
+            "unit": "mg/L"
+        },
+        {
+            "parameter": "ESR",
+            "value": "High",
+            "unit": "mm/hr"
+        },
+        {
+            "parameter": "Fasting Glucose",
+            "value": "High",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "PP Blood Sugar",
+            "value": "High",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "HbA1c",
+            "value": "High",
+            "unit": "%"
+        },
+        {
+            "parameter": "Urea",
+            "value": "High",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "Creatinine",
+            "value": "Slightly High",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "AST",
+            "value": "High",
+            "unit": "U/L"
+        },
+        {
+            "parameter": "ALT",
+            "value": "High",
+            "unit": "U/L"
+        },
+        {
+            "parameter": "Total Cholesterol",
+            "value": "High",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "HDL",
+            "value": "Low",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "LDL",
+            "value": "High",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "Triglycerides",
+            "value": "High",
+            "unit": "mg/dL"
+        },
+        {
+            "parameter": "Potassium",
+            "value": "High",
+            "unit": "mmol/L"
+        },
+        {
+            "parameter": "TSH",
+            "value": "High",
+            "unit": "uIU/mL"
+        },
+        {
+            "parameter": "Vitamin D",
+            "value": "Low",
+            "unit": "ng/mL"
+        },
+        {
+            "parameter": "Vitamin B12",
+            "value": "Borderline Low",
+            "unit": "pg/mL"
+        },
+        {
+            "parameter": "Serum Iron",
+            "value": "Low",
+            "unit": "ug/dL"
+        },
+        {
+            "parameter": "Ferritin",
+            "value": "Low",
+            "unit": "ng/mL"
+        }
+    ],
+    "possible_conditions": [
+        "Type 2 Diabetes Mellitus",
+        "Hyperlipidemia",
+        "Mild Iron Deficiency Anemia",
+        "Elevated Inflammatory Markers",
+        "Early Chronic Kidney Disease",
+        "Vitamin D Deficiency",
+        "Subclinical Hypothyroidism"
+    ],
+    "medications": [
+        "Not Available"
+    ],
+    "recommendations": [
+        "Consult physician.",
+        "Follow diabetic diet.",
+        "Exercise 30 minutes daily.",
+        "Repeat blood sugar, liver and kidney tests in 3 months.",
+        "Consider Vitamin D and Iron supplementation as advised."
+    ],
+    "overall_health_risk": "Low"
+}
